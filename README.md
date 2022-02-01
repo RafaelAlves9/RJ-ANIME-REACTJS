@@ -1,2 +1,0 @@
-# RJ-ANIME-REACTJS
- 
