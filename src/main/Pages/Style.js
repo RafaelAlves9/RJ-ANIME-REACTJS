@@ -14,10 +14,10 @@ export const ContainerTittle = styled.div`
 
     h2{
         padding: 0 10px;
-        font-size: 40px;
+        font-size: 35px;
         font-weight: bolder;
     }
     h2:hover{
-        color: #FAB962;
+        color: #fff;
     }
 `
