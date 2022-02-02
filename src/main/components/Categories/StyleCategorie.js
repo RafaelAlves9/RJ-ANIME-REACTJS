@@ -20,6 +20,9 @@ export const TittleCategorie = styled.div`
         font-size: 32px;
         padding: 0 10px;
     }
+    &:hover{
+        color: #fff;
+    }
     @media (max-width:800px){
         text-align: center;
     }
