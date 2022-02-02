@@ -17,11 +17,11 @@ export const TittleCategorie = styled.div`
         
     h2{
         font-weight: bolder;
-        font-size: 32px;
+        font-size: 27px;
         padding: 0 10px;
     }
-    h2:hover{
-        color: #fff;
+    &:hover{
+        background-image: linear-gradient(to bottom, #2F85EF, #fff, #56BDF5);
     }
     @media (max-width:800px){
         text-align: center;
