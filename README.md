@@ -1,6 +1,6 @@
-Getting Started with Create React App
+# Site de anime em ReactJs para treinar o consumo de API Rest e outras funcionalidades
 
-# Nesse projeto usei Hooks como useStates, useEffects e React Router para criar as rotas internas das páginas de cada categoria.
+Nesse projeto usei Hooks como useStates, useEffects e React Router para criar as rotas internas das páginas de cada categoria.
 
 Também usei Styled-Components no lugar do CSS para estilizar dentro do próprio arquivo JavaScript.
 
